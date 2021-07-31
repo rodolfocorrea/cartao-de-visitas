@@ -1,0 +1,11 @@
+.cartao{
+    background-image: url(imagens/backgorund.png);
+    background-repeat: no-repeat;
+    list-style: none;    
+}
+body{
+    background: paleturquoise;
+}
+ul{
+    list-style: none;
+}
